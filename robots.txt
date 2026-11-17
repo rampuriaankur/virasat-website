@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://virasatsolutions.in/sitemap.xml
